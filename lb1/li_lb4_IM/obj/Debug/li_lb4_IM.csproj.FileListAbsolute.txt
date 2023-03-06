@@ -1,0 +1,10 @@
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.Form1.resources
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.Properties.Resources.resources
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.csproj.GenerateResource.cache
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\bin\Debug\li_lb4_IM.exe.config
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\bin\Debug\li_lb4_IM.exe
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\bin\Debug\li_lb4_IM.pdb
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.exe
+C:\Users\123\OneDrive\Рабочий стол\ИМ\lb1\li_lb4_IM\obj\Debug\li_lb4_IM.pdb
